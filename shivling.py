@@ -3,7 +3,7 @@ import turtle
 turtle.speed(0)
 turtle.hideturtle()
 turtle.setup(800,600)
-turtle.title('शिवलिंग Design BY- geek_programmer101')
+turtle.title('शिवलिंग Design BY- a1codetech3123')
 turtle.speed(9)
 turtle.up()
 turtle.hideturtle()
